@@ -1,4 +1,6 @@
-BAM files associated with the ChIP experiments of this paper have been submitted to the SRA. 
+BAM files associated with the ChIP experiments of this paper have been submitted to the SRA. <br>
+
+<b> Note the BAM file reads were mapped to the [Broad CanFam3 assemblies](https://www.broadinstitute.org/ftp/pub/assemblies/mammals/dog/canFam3.1/), which should not be confused with the UCSC CanFam3.1 build.</b>
 
 Study Accession: <b>SRP062060</b><br>
 Sample Accession: <b>SRS1023869</b><br>
