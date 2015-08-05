@@ -15,4 +15,4 @@ pachinput.bam (6.3Gb MD5: dead7851d8aa1bcae63ffd89967c796d)<br>
 
 The reference genome has also been uploaded:
 
-whole_genome.fa.gz (684Mb MD%: 0ec14a119feb695a50efa938d823c8dd)
+whole_genome.fa.gz (684Mb MD5: 0ec14a119feb695a50efa938d823c8dd)
